@@ -1,0 +1,2 @@
+nom = "cherif"
+print(nom)
